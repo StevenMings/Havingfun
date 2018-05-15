@@ -11,7 +11,7 @@ namespace Havingfun
 
             while(true)
             {
-                Console.Write(input + ", did you know that Steve Loves you very much? ");
+                Console.Write(input + ", did you know the world is round? ");
                 var question = Console.ReadLine();
 
                 if (question == "yes")
